@@ -6,3 +6,5 @@ Also there some cake inside. There simply to showcase code.
 sbt run
 ```
 then in browser go to `localhost:8080`
+## Notes
+Definitely not idiomatic scala. Why even scala? Just for fun.
