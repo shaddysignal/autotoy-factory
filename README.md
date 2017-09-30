@@ -7,4 +7,4 @@ sbt run
 ```
 then in browser go to `localhost:8080`
 ## Notes
-Definitely not idiomatic scala. Why even scala? Just for fun.
+Definitely not idiomatic scala, except for cake. Why even scala? Just for fun.
